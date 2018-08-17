@@ -1,0 +1,22 @@
+# Logs
+logs/
+newrelic_agent.log
+npm-debug.log
+npm-debug.log.*
+*.log
+
+# Test files
+coverage/
+
+# Dependency directory
+node_modules/
+
+# Mac files
+.DS_Store
+
+# VS Code
+typings/
+typings.json
+jsconfig.json
+.history/
+*.swp
